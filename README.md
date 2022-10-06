@@ -7,3 +7,6 @@ The project provides informational service on the SDG indicators **2.4.1 “Prop
 - Extension of European technologies for Ukraine and neighboring countries
 - Demonstrate methodologies implementable at national scale in support of ministries
 **Read more** - https://e-shape.eu/index.php/showcases/pilot-1-6-service-for-sdg-2-4-1-and-15-3-1-indicators-assessment
+
+
+GeoPortal: https://www.eo4ua.org/mapbender/application/eo4ua
